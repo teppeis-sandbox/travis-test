@@ -1,0 +1,23 @@
+{
+  "name": "travis-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/teppeis-sandbox/travis-test.git"
+  },
+  "keywords": [],
+  "author": "Teppei Sato <teppeis@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teppeis-sandbox/travis-test/issues"
+  },
+  "homepage": "https://github.com/teppeis-sandbox/travis-test#readme",
+  "devDependencies": {
+    "mocha": "^5.1.1"
+  }
+}
